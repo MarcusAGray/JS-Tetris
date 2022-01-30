@@ -1,0 +1,22 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    /* background-color: red; */
+    margin: 0;
+}
+
+.tetris-box {
+    border: 5px black solid;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-sizing: border-box;
+
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+    outline: 1px red solid;
+}
